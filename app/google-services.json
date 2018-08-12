@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "521260459412",
+    "firebase_url": "https://tts-bhu.firebaseio.com",
+    "project_id": "tts-bhu",
+    "storage_bucket": "tts-bhu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521260459412:android:434b329c8f4cc326",
+        "android_client_info": {
+          "package_name": "app.strangers.talk.ttsbhu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521260459412-4pge19n529k6s8mn6och9olnj06h6cj9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.strangers.talk.ttsbhu",
+            "certificate_hash": "89f5879095f1a7fa8b5dc714a2a1a553bc7d68b1"
+          }
+        },
+        {
+          "client_id": "521260459412-cp42dcmaa3r961vfgq44jng3s63l244u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBso8kaaaGlVxsOGWDWZu3F8mS9raMorik"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521260459412-cp42dcmaa3r961vfgq44jng3s63l244u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
